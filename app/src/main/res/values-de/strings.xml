@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Review</string>
+    <string name="director">Regisseur</string>
+    <string name="actors">Schauspieler</string>
+    <string name="genre">Genre</string>
+    <string name="release">Veröffentlichung</string>
+    <string name="plot">Handlung</string>
+    <string name="review_movie">FILM BEWERTEN</string>
+    <string name="review_this_movie">DIESEN FILM BEWERTEN</string>
+</resources>
